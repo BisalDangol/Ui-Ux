@@ -1,7 +1,7 @@
 # User Experience and User Interface
 
-#Some projects can be share are
-
+Some projects can be share are
+  
 1. School Management system
 2. E-commerce
 3. Communication APP
