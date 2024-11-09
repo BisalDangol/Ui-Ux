@@ -15,7 +15,7 @@ Some projects can be share are
 1. School Management system:
 
    School Management system (Prototype):
-     https://www.figma.com/proto/U46h3f2e0dheHHAusIA8EY/School-management-system?type=design&node-id=679-9855&t=LErXQ6iTUYYyTENn-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=199%3A3270&show-proto-sidebar=1&mode=design
+  https://www.figma.com/proto/U46h3f2e0dheHHAusIA8EY/School-management-system?type=design&node-id=679-9855&t=LErXQ6iTUYYyTENn-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=199%3A3270&show-proto-sidebar=1&mode=design
 
 ===================================================================================
 
